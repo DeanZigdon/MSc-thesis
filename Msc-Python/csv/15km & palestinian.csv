@@ -1,0 +1,105 @@
+PCBS_NAME,Oslo_Areas,GovID,X,Y,NAME_ARB,Pop_Source,EJ,Capital,Urban_Rurl,Livelihood,pop2017,Region,District,PCODE,id,Name,type,comments,area_sqm
+Fuqeiqis,C,"50",34.98682869910,31.48887316040,فْقِيقِيس,PCBS,"0","0",Rural,Employment in Israeli settlement,"278",West Bsnk,Hebron,"502875","7",Beit Govrin,Rural,,695288237.344
+Al Majd,B,"50",34.95212085320,31.48067582800,المَجْد,PCBS Tables,"0","0",Rural,Farming,"1993",West Bsnk,Hebron,"502910","7",Beit Govrin,Rural,,695288237.344
+Deir al 'Asal at Tahta,B,"50",34.94497535960,31.47325133110,دِير العَسَل التَحْتَا,PCBS Tables,"0","0",Rural,Farming,"616",West Bsnk,Hebron,"502925","7",Beit Govrin,Rural,,695288237.344
+Sikka,B / C,"50",34.94333560170,31.49142913750,سِكَّة,PCBS,"0","0",Semi-Urban,Employment in Israeli settlement,"914",West Bsnk,Hebron,"502860","7",Beit Govrin,Rural,,695288237.344
+Deir Nidham Bedouins - Al Hossa,C,"30",35.10236478510,32.00275607690,,part of Deir Nidham,"0","0",,,NA,West Bsnk,Ramallah,"999918","10",Tinshemet,Rural,,695288237.344
+Wadi Salman,C,"30",35.08825012720,31.88000799670,,part of Kharbatha al Misbah,"0","0",,,NA,West Bsnk,Ramallah,"999916","6",Bnei Brit,Country,,695288237.344
+Beit Iksa Bedouins,C,"40",35.16651241650,31.83359491720,,part of Beit Iksa,"0","0",,,NA,West Bsnk,Jerusalem,"999886","6",Bnei Brit,Country,,695288237.344
+Deir Abu Masha'al Herders,C,"30",35.06033744120,32.00448340080,,VPP,"0","0",herder/Bedouin,Herding,NA,West Bsnk,Ramallah,"999808","10",Tinshemet,Rural,,695288237.344
+Umm al Hamam,C,"25",35.00598302710,32.07614860710,,VPP,"0","0",herder/Bedouin,Herding,NA,West Bsnk,Salfit,"999924","10",Tinshemet,Rural,,695288237.344
+Suba,B / C,"50",34.99307775070,31.54220550920,سُوبَا,part of Idhna,"0","0",,,"139",West Bsnk,Hebron,"502730","7",Beit Govrin,Rural,,695288237.344
+Bir Musallam,C,"50",34.98262457180,31.57266187020,بِير مُسَلَّم,part of Idhna,"0","0",,,"165",West Bsnk,Hebron,"502645","7",Beit Govrin,Rural,,695288237.344
+Bir Musallam,C,"50",34.98262457180,31.57266187020,بِير مُسَلَّم,part of Idhna,"0","0",,,"165",West Bsnk,Hebron,"502645","8",Segafim,Rural,,695288237.344
+Khirbet ad Deir,B / C,"50",35.02606902520,31.65584670770,خِرْبِة الدِير,PCBS,"0","0",Rural,Farming,"358",West Bsnk,Hebron,"502435","6",Bnei Brit,Country,,695288237.344
+Khirbet ad Deir,B / C,"50",35.02606902520,31.65584670770,خِرْبِة الدِير,PCBS,"0","0",Rural,Farming,"358",West Bsnk,Hebron,"502435","7",Beit Govrin,Rural,,695288237.344
+Khirbet ad Deir,B / C,"50",35.02606902520,31.65584670770,خِرْبِة الدِير,PCBS,"0","0",Rural,Farming,"358",West Bsnk,Hebron,"502435","8",Segafim,Rural,,695288237.344
+Kafr Ni'ma,B,"30",35.09658339300,31.92637995550,كَفْر نِعْمَة,PCBS Tables,"0","0",Rural,Government sector,"4659",West Bsnk,Ramallah,"301755","10",Tinshemet,Rural,,695288237.344
+Ras Karkar,B / C,"30",35.10722876500,31.94245737370,رَاس كَرْكَرْ,PCBS,"0","0",Rural,Government sector,"1956",West Bsnk,Ramallah,"301730","10",Tinshemet,Rural,,695288237.344
+Tawas,B,"50",34.95597126310,31.48882168600,طَوَاس,part of Sikka,"0","0",,,"204",West Bsnk,Hebron,"502890","7",Beit Govrin,Rural,,695288237.344
+Khirbet Abu Hamid,B,"50",34.95204675730,31.47387763870,خِرْبِة ابو حَامِد,part of Al Majd,"0","0",,,"284",West Bsnk,Hebron,"502930","7",Beit Govrin,Rural,,695288237.344
+Al Kum,B,"50",34.96303661160,31.53385795260,ألكُوم,part of Beit Maqdum,"0","0",,,"1464",West Bsnk,Hebron,"502770","7",Beit Govrin,Rural,,695288237.344
+Al Walaja,B / C / East Jerusalem,"45",35.16336594120,31.73043412940,الوَلَجَة,PCBS,"0","0",Rural,Employment in Israeli settlement,"2671",West Bsnk,Bethlehem,"452170","6",Bnei Brit,Country,,695288237.344
+Kharayib Umm al Lahim,C  /  No Man's Land,"40",35.09456394050,31.83927251860,خَرائِب أمُّ اللَحْمْ,PCBS,"0","0",Rural,other private sector (waged),"401",West Bsnk,Jerusalem,"401985","6",Bnei Brit,Country,,695288237.344
+Beit Maqdum,B,"50",34.97141235850,31.53449374310,بِيت مَقْدُوم,PCBS Tables,"0","0",Rural,other private sector (waged),"1109",West Bsnk,Hebron,"502765","7",Beit Govrin,Rural,,695288237.344
+Tarqumiya,B / C,"50",35.01273042280,31.57549154110,تَرْقُومْيا,PCBS,"0","0",Semi-Urban,Government sector,"19311",West Bsnk,Hebron,"502640","7",Beit Govrin,Rural,,695288237.344
+Idhna,B / C,"50",34.97278311420,31.55535701850,إذْنَا,PCBS,"0","0",Urban,Employment in Israeli settlement,"25844",West Bsnk,Hebron,"502685","7",Beit Govrin,Rural,,695288237.344
+Wadi Fukin,B / C,"45",35.10346057640,31.70678467910,وادي فُوكِين,PCBS,"0","0",Semi-Urban,Employment in Israeli settlement,"1342",West Bsnk,Bethlehem,"452235","6",Bnei Brit,Country,,695288237.344
+Nahhalin,B / C,"45",35.12043545310,31.68526596680,نَحَّالين,PCBS,"0","0",Rural,Employment in Israeli settlement,"8741",West Bsnk,Bethlehem,"452325","6",Bnei Brit,Country,,695288237.344
+Husan,B / C,"45",35.13508342870,31.70858446040,حُوسَان,PCBS,"0","0",Rural,Employment in Israeli settlement,"7048",West Bsnk,Bethlehem,"452230","6",Bnei Brit,Country,,695288237.344
+Deir Samit,B / C,"50",34.97525961060,31.51907249740,دِير سَامِت,PCBS,"0","0",Rural,other private sector (waged),"7375",West Bsnk,Hebron,"502810","7",Beit Govrin,Rural,,695288237.344
+Beit 'Anan,B / C,"40",35.11216876970,31.85135424790,بِيت عَنَان,PCBS,"0","0",Urban,Government sector,"4210",West Bsnk,Jerusalem,"401950","6",Bnei Brit,Country,,695288237.344
+Qatanna,B / C,"40",35.11915092760,31.83402924060,قَطَنَه,PCBS,"0","0",Semi-Urban,other private sector (waged),"6981",West Bsnk,Jerusalem,"402015","6",Bnei Brit,Country,,695288237.344
+Beit Ijza,B / C,"40",35.15153118230,31.84710607980,بِيت إجْزَا,PCBS,"0","0",Rural,Government sector,"854",West Bsnk,Jerusalem,"401965","6",Bnei Brit,Country,,695288237.344
+Al Qubeiba,B / C,"40",35.13693770420,31.83851866720,القُبَيْبَة,PCBS,"0","0",Urban,Government sector,"3876",West Bsnk,Jerusalem,"401980","6",Bnei Brit,Country,,695288237.344
+Biddu,B / C,"40",35.14882218590,31.83494641880,بِدُّو,PCBS,"0","0",Urban,Government sector,"8231",West Bsnk,Jerusalem,"401995","6",Bnei Brit,Country,,695288237.344
+Beit Surik,B / C,"40",35.14883059190,31.82391737980,بِيت سُورِيك,PCBS,"0","0",Rural,Farming,"4025",West Bsnk,Jerusalem,"402020","6",Bnei Brit,Country,,695288237.344
+Kharbatha Bani Harith,B / C,"30",35.07244969960,31.94524357390,خَرْبَثا بَنِي حَارِث,PCBS,"0","0",Rural,Employment in Israeli settlement,"3471",West Bsnk,Ramallah,"301725","10",Tinshemet,Rural,,695288237.344
+Deir 'Ammar Camp,B / C,"30",35.09897427950,31.96628262690,مُخَيَّمْ دِير عَمَّار,PCBS,"0","0",Camp,Employment in Israeli settlement,"1884",West Bsnk,Ramallah,"301660","10",Tinshemet,Rural,,695288237.344
+Beitillu,B / C,"30",35.11930589860,31.97422565560,بِيتِللُّو,PCBS Tables,"0","0",Rural,Employment in Israeli settlement,"3465",West Bsnk,Ramallah,"301620","10",Tinshemet,Rural,,695288237.344
+Deir Nidham,B / C,"30",35.11410627610,32.00321915580,دِير نِظَام,PCBS,"0","0",Semi-Urban,Government sector,"876",West Bsnk,Ramallah,"301560","10",Tinshemet,Rural,,695288237.344
+Al Jab'a,B / C,"45",35.07837315990,31.67414087280,الجَبْعَة,PCBS Tables,"0","0",Rural,Farming,"1121",West Bsnk,Bethlehem,"452355","6",Bnei Brit,Country,,695288237.344
+Jammala,B,"30",35.09174466070,31.97285334490,جَمَّالا,part of AL-Itihad,"0","0",,,"1664",West Bsnk,Ramallah,"301630","10",Tinshemet,Rural,,695288237.344
+Jbour and 'Anani,C,"25",35.00515349490,32.06534856500,,VPP,"0","0",,,NA,West Bsnk,Salfit,"999796","10",Tinshemet,Rural,,695288237.344
+Rafat,B / C,"25",35.04374267990,32.07849485940,رَافات,PCBS,"0","0",Rural,Herding,"2522",West Bsnk,Salfit,"251395","10",Tinshemet,Rural,,695288237.344
+Deir Ballut,B / C,"25",35.02518057620,32.06545558680,دِير بَلُّوط,PCBS,"0","0",Rural,Farming,"3873",West Bsnk,Salfit,"251430","10",Tinshemet,Rural,,695288237.344
+Al Lubban al Gharbi,B / C,"30",35.03924759890,32.03494528370,اللُبَّنْ الغَرْبي,PCBS,"0","0",Rural,Employment in Israeli settlement,"1566",West Bsnk,Ramallah,"301495","10",Tinshemet,Rural,,695288237.344
+Kafr ad Dik,B / C,"25",35.08252724890,32.06756756190,كَفْر الدِيك,PCBS,"0","0",Rural,Government sector,"4918",West Bsnk,Salfit,"251425","10",Tinshemet,Rural,,695288237.344
+Beit Rima (Bani Zeid),A,"30",35.10282603890,32.03293441880,دير غسانة-بَني زِيْد,PCBS Tables,"0","0",Semi-Urban,Government sector,"4335",West Bsnk,Ramallah,"301480","10",Tinshemet,Rural,,695288237.344
+Al Midya,B / C  /  No Man's Land,"30",35.00411115420,31.93596167510,المِدْيَة,PCBS,"0","0",Rural,Farming,"1533",West Bsnk,Ramallah,"301745","10",Tinshemet,Rural,,695288237.344
+Bil'in,B,"30",35.07156425700,31.92856517150,بِلْعِين,PCBS Tables,"0","0",Rural,other private sector (waged),"2137",West Bsnk,Ramallah,"301760","10",Tinshemet,Rural,,695288237.344
+Saffa,B / C,"30",35.06179000170,31.90468702380,صَفَّا,PCBS,"0","0",Semi-Urban,Government sector,"4374",West Bsnk,Ramallah,"301805","6",Bnei Brit,Country,,695288237.344
+Saffa,B / C,"30",35.06179000170,31.90468702380,صَفَّا,PCBS,"0","0",Semi-Urban,Government sector,"4374",West Bsnk,Ramallah,"301805","10",Tinshemet,Rural,,695288237.344
+Azzun 'Atma,B / C,"20",35.01727623180,32.12266333720,عَزُّون عَتْمَة,PCBS,"0","0",Rural,Farming,"2068",West Bsnk,Qalqiliya,"201280","10",Tinshemet,Rural,,695288237.344
+Mas-ha,B / C,"25",35.05007942230,32.10765146090,مَسْحَة,PCBS,"0","0",Rural,Farming,"2370",West Bsnk,Salfit,"251320","10",Tinshemet,Rural,,695288237.344
+Az Zawiya,B / C,"25",35.04079201590,32.09644615410,الزَاوِيَة,PCBS,"0","0",Rural,Government sector,"6033",West Bsnk,Salfit,"251360","10",Tinshemet,Rural,,695288237.344
+Nuba,B,"50",35.03489355310,31.60785370820,نُوبَا,PCBS Tables,"0","0",Semi-Urban,Mixed livelihoods,"5631",West Bsnk,Hebron,"502585","7",Beit Govrin,Rural,,695288237.344
+Nuba,B,"50",35.03489355310,31.60785370820,نُوبَا,PCBS Tables,"0","0",Semi-Urban,Mixed livelihoods,"5631",West Bsnk,Hebron,"502585","8",Segafim,Rural,,695288237.344
+Al Karameh (Beit Nuba),C,"30",35.04422431780,31.85917763530,بِيت نُوبَا,PCBS,"0","0",Rural,Employment in Israeli settlement,NA,West Bsnk,Ramallah,"301925","6",Bnei Brit,Country,,695288237.344
+Hitta,B,"50",35.02102090860,31.62036009800,حَتَّا,PCBS Tables,"0","0",Rural,Farming,"1155",West Bsnk,Hebron,"502550","7",Beit Govrin,Rural,,695288237.344
+Hitta,B,"50",35.02102090860,31.62036009800,حَتَّا,PCBS Tables,"0","0",Rural,Farming,"1155",West Bsnk,Hebron,"502550","8",Segafim,Rural,,695288237.344
+Beit Ula,B,"50",35.02197897830,31.59747698020,بِيت أُولا,PCBS Tables,"0","0",Urban,Farming,"12381",West Bsnk,Hebron,"502615","7",Beit Govrin,Rural,,695288237.344
+Beit Ula,B,"50",35.02197897830,31.59747698020,بِيت أُولا,PCBS Tables,"0","0",Urban,Farming,"12381",West Bsnk,Hebron,"502615","8",Segafim,Rural,,695288237.344
+Kharas,B,"50",35.03941545990,31.61612483840,خَارَاس,PCBS Tables,"0","0",Urban,Government sector,"9018",West Bsnk,Hebron,"502560","7",Beit Govrin,Rural,,695288237.344
+Kharas,B,"50",35.03941545990,31.61612483840,خَارَاس,PCBS Tables,"0","0",Urban,Government sector,"9018",West Bsnk,Hebron,"502560","8",Segafim,Rural,,695288237.344
+Kharbatha al Misbah,B / C,"30",35.07224111800,31.88522186750,خَرْبَثا المِصْباح,PCBS,"0","0",Semi-Urban,Government sector,"6366",West Bsnk,Ramallah,"301855","6",Bnei Brit,Country,,695288237.344
+Beit 'Ur at Tahta,B / C,"30",35.07978839690,31.89592328100,بِيت عُوْرْ التَحْتَا,PCBS,"0","0",Rural,Employment in Israeli settlement,"5040",West Bsnk,Ramallah,"301820","6",Bnei Brit,Country,,695288237.344
+Beit 'Ur al Fauqa,B / C,"30",35.11543720210,31.88495940650,بِيت عُوْر الفُوقَا,PCBS,"0","0",Semi-Urban,other private sector (waged),"1049",West Bsnk,Ramallah,"301860","6",Bnei Brit,Country,,695288237.344
+At Tira,B / C,"30",35.12574961470,31.87046460160,الطيرَة,PCBS,"0","0",Rural,Employment in Israeli settlement,"1504",West Bsnk,Ramallah,"301890","6",Bnei Brit,Country,,695288237.344
+Beit Duqqu,B / C,"40",35.13168000800,31.85855549750,بِيت دُقُّو,PCBS,"0","0",Urban,Farming,"1754",West Bsnk,Jerusalem,"401930","6",Bnei Brit,Country,,695288237.344
+Beit 'Awwa,B / C,"50",34.95494869390,31.50748407950,بِيت عَوَّا,PCBS,"0","0",Semi-Urban,Employment in Israeli settlement,"10436",West Bsnk,Hebron,"502835","7",Beit Govrin,Rural,,695288237.344
+Ein Ayoub Bedouins,C,"30",35.09298297410,31.94993225070,عين أيوب,part of Ras Karkar,"0","0",,,NA,West Bsnk,Ramallah,"999771","10",Tinshemet,Rural,,695288237.344
+Humsa,C,"50",34.98516463840,31.53154086570,حُمْصَة,part of Deir Samit,"0","0",,,"64",West Bsnk,Hebron,"502785","7",Beit Govrin,Rural,,695288237.344
+Tarusa,C,"50",34.98709458000,31.52374533910,طَاروسَة,part of Deir Samit,"0","0",,,"139",West Bsnk,Hebron,"502800","7",Beit Govrin,Rural,,695288237.344
+At Taybe,C,"50",35.04994320190,31.56259819410,,part of Tarqumiya,"0","0",,,NA,West Bsnk,Hebron,"999812","7",Beit Govrin,Rural,,695288237.344
+Deir Ghassana (Bani Zeid),A,"30",35.09824564780,32.04660542740,,part of Bani Zeid,"0","0",,,"1692",West Bsnk,Ramallah,"999974","10",Tinshemet,Rural,,695288237.344
+Al Muwarraq,B,"50",34.96681411830,31.52903432550,المُوَرَّقْ,part of Beit Maqdum,"0","0",,,"839",West Bsnk,Hebron,"502795","7",Beit Govrin,Rural,,695288237.344
+Khirbet Jamrura,B / C,"50",34.97667653600,31.58320940770,خِرْبِة جَمْرُورَة,part of Tarqumiya,"0","0",,,NA,West Bsnk,Hebron,"502625","7",Beit Govrin,Rural,,695288237.344
+Khirbet Jamrura,B / C,"50",34.97667653600,31.58320940770,خِرْبِة جَمْرُورَة,part of Tarqumiya,"0","0",,,NA,West Bsnk,Hebron,"502625","8",Segafim,Rural,,695288237.344
+Wadih,A,"50",35.00144758020,31.50386555890,واضِح,part of Dura,"0","0",,,"84",West Bsnk,Hebron,"502845","7",Beit Govrin,Rural,,695288237.344
+Al Khamajat,A,"50",35.04377221030,31.54502918550,الخَمْجَات,part of Taffuh,"0","0",,,"1118",West Bsnk,Hebron,"502710","7",Beit Govrin,Rural,,695288237.344
+Khirbet Susa,C,"25",35.08341806280,32.07859687570,خِرْبِة سُوسَة,part of Kafr ad Dik,"0","0",,,"633",West Bsnk,Salfit,"251390","10",Tinshemet,Rural,,695288237.344
+Qila,B,"50",35.00351424710,31.61081335220,قِيلا,part of Beit Ula,"0","0",,,"1519",West Bsnk,Hebron,"502570","7",Beit Govrin,Rural,,695288237.344
+Qila,B,"50",35.00351424710,31.61081335220,قِيلا,part of Beit Ula,"0","0",,,"1519",West Bsnk,Hebron,"502570","8",Segafim,Rural,,695288237.344
+Ras al Jora,B,"50",34.99790389770,31.60431476990,راس الجُورَة,part of Beit Ula,"0","0",,,"637",West Bsnk,Hebron,"502600","7",Beit Govrin,Rural,,695288237.344
+Ras al Jora,B,"50",34.99790389770,31.60431476990,راس الجُورَة,part of Beit Ula,"0","0",,,"637",West Bsnk,Hebron,"502600","8",Segafim,Rural,,695288237.344
+Deir 'Ammar,B,"30",35.10730386790,31.96871680930,دِير عَمَّار,part of AL-Itihad,"0","0",,,"3353",West Bsnk,Ramallah,"301655","10",Tinshemet,Rural,,695288237.344
+Battir,B / C,"45",35.14075924460,31.71848039380,بَتِّير,PCBS,"0","0",Rural,Employment in Israeli settlement,"4696",West Bsnk,Bethlehem,"452175","6",Bnei Brit,Country,,695288237.344
+Beit Sira,B / C,"30",35.04637876900,31.88791171400,بِيت سِيرَا,PCBS,"0","0",Rural,Employment in Israeli settlement,"3343",West Bsnk,Ramallah,"301850","6",Bnei Brit,Country,,695288237.344
+Beit Sira,B / C,"30",35.04637876900,31.88791171400,بِيت سِيرَا,PCBS,"0","0",Rural,Employment in Israeli settlement,"3343",West Bsnk,Ramallah,"301850","10",Tinshemet,Rural,,695288237.344
+Beit Liqya,B / C,"30",35.06538950120,31.86973126880,بِيت لِقْيا,PCBS,"0","0",Rural,Employment in Israeli settlement,"9304",West Bsnk,Ramallah,"301895","6",Bnei Brit,Country,,695288237.344
+Qibya,B / C,"30",35.00974280940,31.97670321260,قِبْيَه,PCBS,"0","0",Rural,Employment in Israeli settlement,"6090",West Bsnk,Ramallah,"301605","10",Tinshemet,Rural,,695288237.344
+Budrus,B / C,"30",34.99338998670,31.96651260190,بُدْرُس,PCBS,"0","0",Rural,Employment in Israeli settlement,"1596",West Bsnk,Ramallah,"301665","10",Tinshemet,Rural,,695288237.344
+Shuqba,B / C,"30",35.04027624870,31.98702854290,شُقْبَا,PCBS,"0","0",Rural,other private sector (waged),"5459",West Bsnk,Ramallah,"301595","10",Tinshemet,Rural,,695288237.344
+Shabtin,B / C,"30",35.04929385890,31.97345667840,شِبْتِين,PCBS,"0","0",Rural,Employment in Israeli settlement,"1136",West Bsnk,Ramallah,"301625","10",Tinshemet,Rural,,695288237.344
+Deir Qaddis,B / C,"30",35.04337164030,31.94825044210,دِير قِدِّيس,PCBS,"0","0",Rural,Government sector,"2452",West Bsnk,Ramallah,"301710","10",Tinshemet,Rural,,695288237.344
+Ni'lin,B / C,"30",35.02110458480,31.94730284330,نِعْلِين,PCBS,"0","0",Rural,other private sector (waged),"5118",West Bsnk,Ramallah,"301715","10",Tinshemet,Rural,,695288237.344
+Rantis,B / C,"30",35.01854535100,32.02906519900,رَنْتِيس,PCBS,"0","0",Rural,Employment in Israeli settlement,"3179",West Bsnk,Ramallah,"301515","10",Tinshemet,Rural,,695288237.344
+Abud,B / C,"30",35.06864902120,32.01669589050,عابُود,PCBS,"0","0",Rural,Government sector,"2153",West Bsnk,Ramallah,"301535","10",Tinshemet,Rural,,695288237.344
+Deir Abu Mash'al,B,"30",35.06912537020,31.99835662440,دِير أبو مَشْعَلْ,PCBS Tables,"0","0",Rural,Farming,"4233",West Bsnk,Ramallah,"301570","10",Tinshemet,Rural,,695288237.344
+Qussa,C,"50",34.95938505510,31.58961049170,قصة,part of Tarqumiya,"0","0",,,"0",West Bsnk,Hebron,"999998","7",Beit Govrin,Rural,,695288237.344
+Qussa,C,"50",34.95938505510,31.58961049170,قصة,part of Tarqumiya,"0","0",,,"0",West Bsnk,Hebron,"999998","8",Segafim,Rural,,695288237.344
+Khirbet Mushrif,B,"50",35.02576186010,31.62547149100,خِرْبِة مُشْرِف-عَذاب,part of Kharas,"0","0",,,"121",West Bsnk,Hebron,"502515","7",Beit Govrin,Rural,,695288237.344
+Khirbet Mushrif,B,"50",35.02576186010,31.62547149100,خِرْبِة مُشْرِف-عَذاب,part of Kharas,"0","0",,,"121",West Bsnk,Hebron,"502515","8",Segafim,Rural,,695288237.344
+Kureise,A / B / C,"50",35.01559368520,31.52342746960,كْرِيسِة,part of Dura,"0","0",,,"3719",West Bsnk,Hebron,"502805","7",Beit Govrin,Rural,,695288237.344
+Fer'a,C,"50",35.01148736370,31.54956035900,,part of Idhna,"0","0",,,NA,West Bsnk,Hebron,"999878","7",Beit Govrin,Rural,,695288237.344
